@@ -1,0 +1,204 @@
+[
+    {
+        "titulo": "As Aventuras de Pi",
+        "ano": 2012,
+        "duracaoEmMinutos": 127,
+        "genero": [
+            "Aventura",
+            "Drama"
+        ],
+        "diretor": "Ang Lee",
+        "roteiristas": ["David Magee"],
+        "atores": [
+            "Suraj Sharma",
+            "Irrfan Khan",
+            "Ayush Tandon",
+            "Gautam Belur"
+        ],
+        "poster": "https://a.ltrbxd.com/resized/film-poster/7/4/3/4/8/74348-life-of-pi-0-1000-0-1500-crop.jpg?v=5b5f120090",
+        "metascore": 79
+    },
+    {
+        "titulo": "A Chegada",
+        "ano": 2016,
+        "duracaoEmMinutos": 116,
+        "genero": [
+            "Ficção Científica",
+            "Drama"
+        ],
+        "diretor": "Denis Villeneuve",
+        "roteiristas": ["Eric Heisserer"],
+        "atores": [
+            "Amy Adams",
+            "Jeremy Renner",
+            "Forest Whitaker",
+            "Michael Stuhlbarg"
+        ],
+        "poster": "https://a.ltrbxd.com/resized/sm/upload/3u/dy/qd/qd/4Iu5f2nv7huqvuYkmZvSPOtbFjs-0-1000-0-1500-crop.jpg?v=0fc28fdf2c",
+        "metascore": 81
+    },
+    {   
+        "titulo": "A Criada",
+        "ano": 2016,
+        "duracaoEmMinutos": 144,
+        "genero": [
+            "Suspense",
+            "Drama"
+        ],
+        "diretor": "Park Chan-wook",
+        "roteiristas": ["Park Chan-wook", "Chung Seo-kyung"],
+        "atores": [
+            "Kim Min-hee",
+            "Kim Tae-ri",
+            "Ha Jung-woo",
+            "Cho Jin-woong"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/81gN8W5MiLL._AC_UF894,1000_QL80_.jpg",
+        "metascore": 85
+    }, 
+    {
+        "titulo": "300",
+        "ano": 2006,
+        "duracaoEmMinutos": 117,
+        "genero": [
+            "Ação",
+            "Drama",
+            "Fantasia"
+        ],
+        "diretor": "Zack Snyder",
+        "roteiristas": [
+            "Zack Snyder",
+            "Kurt Johnstad",
+            "Michael Gordon",
+            "Frank Miller",
+            "Lynn Varley"
+        ],
+        "atores": [
+            "Gerard Butler",
+            "Lena Headey",
+            "Dominic West",
+            "David Wenham"
+        ],
+        "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/1/1/1/51111-300-0-1000-0-1500-crop.jpg?v=84df44bf2e",
+        "metascore": 52
+    },
+    {
+        "titulo": "O Lobo de Wall Street",
+        "ano": 2013,
+        "duracaoEmMinutos": 180,
+        "genero": [
+            "Biografia",
+            "Comédia",
+            "Crime"
+        ],
+        "diretor": "Martin Scorsese",
+        "roteiristas": [
+            "Terence Winter",
+            "Jordan Belfort"
+        ],
+        "atores": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie",
+            "Matthew McConaughey"
+        ],
+        "poster": "https://a.ltrbxd.com/resized/film-poster/8/6/1/1/4/86114-the-wolf-of-wall-street-0-1000-0-1500-crop.jpg?v=9fd1891260",
+        "metascore": 75
+    },
+    {
+        "titulo": "Antes do Amanhecer",
+        "ano": 1995,
+        "duracaoEmMinutos": 101,
+        "genero": [
+            "Drama",
+            "Romance"
+        ],
+        "diretor": "Richard Linklater",
+        "roteiristas": [
+            "Richard Linklater",
+            "Kim Krizan"
+        ],
+        "atores": [
+            "Ethan Hawke",
+            "Julie Delpy"
+        ],
+        "poster": "https://www.movieposters.com/cdn/shop/files/beforesunrise.24x36_480x.progressive.jpg?v=1707412174"
+    },
+    {
+        "titulo": "Orgulho e Preconceito",
+        "ano": 2005,
+        "duracaoEmMinutos": 129,
+        "genero": [
+            "Drama",
+            "Romance"
+        ],
+        "diretor": "Joe Wright",
+        "roteiristas": [
+            "Jane Austen",
+            "Deborah Moggach"
+        ],
+        "atores": [
+            "Keira Knightley",
+            "Matthew Macfadyen"
+        ],
+        "poster": "https://www.movieposters.com/cdn/shop/products/5577e4e7f95f3214748b46ab98e376c9_e381fd8f-3078-4f30-9711-321eb96e30c4_480x.progressive.jpg?v=1573617183"
+    },
+    {
+        "titulo": "A Viagem de Chihiro",
+        "ano": 2001,
+        "duracaoEmMinutos": 125,
+        "genero": [
+            "Animação",
+            "Aventura",
+            "Fantasia"
+        ],
+        "diretor": "Hayao Miyazaki",
+        "roteiristas": [
+            "Hayao Miyazaki"
+        ],
+        "atores": [
+            "Rumi Hiiragi",
+            "Miyu Irino"
+        ],
+        "poster": "https://xl.movieposterdb.com/14_05/2001/245429/xl_245429_233c79aa.jpg"
+    },
+    {
+        "titulo": "Parasita",
+        "ano": 2019,
+        "duracaoEmMinutos": 132,
+        "genero": [
+            "Comédia",
+            "Drama",
+            "Thriller"
+        ],
+        "diretor": "Bong Joon-ho",
+        "roteiristas": [
+            "Bong Joon-ho",
+            "Han Jin-won"
+        ],
+        "atores": [
+            "Song Kang-ho",
+            "Lee Sun-kyun"
+        ],
+        "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-1000-0-1500-crop.jpg?v=8f5653f710"
+    },
+     {
+        "titulo": "Ela",
+        "ano": 2013,
+        "duracaoEmMinutos": 126,
+        "genero": [
+            "Drama",
+            "Romance",
+            "Ficção Científica"
+        ],
+        "diretor": "Spike Jonze",
+        "roteiristas": [
+            "Spike Jonze"
+        ],
+        "atores": [
+            "Joaquin Phoenix",
+            "Scarlett Johansson"
+        ],
+        "poster": "https://a.ltrbxd.com/resized/sm/upload/au/nb/i6/lq/fsoTLnUXEUTNuVCBxAJMY0HPPd-0-1000-0-1500-crop.jpg?v=16789732be"
+    }
+]
