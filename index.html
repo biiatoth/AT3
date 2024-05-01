@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotifilmes</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Spotifilmes</h1>
+        <input type="text" id="inputBusca" placeholder="Buscar um filme...">
+        <button onclick="buscarFilmes()">Buscar</button>
+        <button onclick="voltarLista()" id="btnVoltar" style="display: none;">Voltar</button>
+        <div id="listaDeFilmes"></div>
+        <h2>Minha Lista</h2>
+        <div id="minhaLista"></div>
+    </div>
+
+<footer class="disclaimer-premium">
+    <div class="text">
+        <p class="disclaimer-premiumtitle"> Assine o Premium</p>
+        <p class="disclaimer-premiumsubtitle">
+                Inscreva-se para curtir o site sem anúncios. Não precisa de cartão de crédito.
+        </p>
+    </div>
+    <div class="button">
+        <button type="button">Inscreva-se grátis</button>
+    </div>
+</footer>
+
+    <script src="script.js"></script>
+    <script>
+        getMovies()
+   </script>
+</body>
+</html>
